@@ -1,0 +1,31 @@
+[33mcommit 707701a4f14c9d8fe743fa18094ca7f7e7b84c8a[m
+Merge: 6a25b2d 53cb6ed
+Author: Adam Furtak <adas.furtak@gmail.com>
+Date:   Tue Feb 28 17:56:17 2017 +0100
+
+    Merge branch 'master' of github.com:adalwer/Chopin
+
+[33mcommit 6a25b2d7da62a1c31f0b21816695ca84fee0f198[m
+Author: Adam Furtak <adas.furtak@gmail.com>
+Date:   Tue Feb 28 17:54:51 2017 +0100
+
+    add all existing files
+
+[33mcommit 53cb6ed5189f5995b42b4852e4b001f54166f35c[m
+Merge: 8e63100 4881b25
+Author: Adam Furtak <adas.furtak@gmail.com>
+Date:   Tue Feb 28 17:50:56 2017 +0100
+
+    Merge branch 'master' of github.com:adalwer/Chopin
+
+[33mcommit 8e63100fb415e8e552dea47aaf21a822ee7a9635[m
+Author: Adam Furtak <adas.furtak@gmail.com>
+Date:   Tue Feb 28 17:48:57 2017 +0100
+
+    initial
+
+[33mcommit 4881b25b331a3aa6581ee6e960a4d2be4e9d0228[m
+Author: Adam Furtak <adas.furtak@gmail.com>
+Date:   Tue Feb 28 17:48:08 2017 +0100
+
+    Create README.md
